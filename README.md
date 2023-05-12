@@ -3,7 +3,9 @@
  
 
 <p align="center">
-  <a href="">Visite o projeto</a>
+  <a href="https://lab-cards.vercel.app/">Visite o projeto Card 1</a> <br />
+  <a href="https://lab-cards-2.vercel.app/">Visite o projeto Card 2</a>
+
 </p>
 
 
