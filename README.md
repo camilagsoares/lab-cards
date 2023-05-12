@@ -9,6 +9,6 @@
 
 ## 💻 Preview
 
-![image](https://github.com/camilagsoares/lab-cards-fepi/assets/85360804/04a578ea-f8ce-4f1b-9e64-6fe69177b8f2)
 
-
+![image](https://github.com/camilagsoares/lab-cards/assets/85360804/e81d6a00-82ec-43e9-9b0e-8c91470cb02e)
+![image1](https://github.com/camilagsoares/lab-cards/assets/85360804/b002c75d-e421-4306-999f-3c104beffa31)
